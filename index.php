@@ -39,5 +39,5 @@ $context = context_course::instance($course->id);
 $heading = get_string('mdl70862', 'local_mdl70862');
 
 $PAGE->navbar->add($heading);
-print_grade_page_head($courseid, 'mdl70862', 'newtab', get_string('mdl70862', 'local_mdl70862'));
+print_grade_page_head($courseid, 'mdl70862', 'mdl70862', get_string('mdl70862', 'local_mdl70862'));
 echo $OUTPUT->footer();
