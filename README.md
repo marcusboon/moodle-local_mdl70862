@@ -1,1 +1,4 @@
-# moodle-local_mdl70862
+# MDL-70862 #
+
+Small plugin to demonstrate the core callback
+
